@@ -1,5 +1,5 @@
 {
-  "name": "odin_auth_demographics",
+  "name": "odin_demographics",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
